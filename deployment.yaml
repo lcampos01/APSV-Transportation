@@ -69,3 +69,4 @@ spec:
       imagePullSecrets:
 
       - name: github-registry
+      
