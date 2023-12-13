@@ -84,3 +84,4 @@ jobs:
           push: true
 
           tags: ghcr.io/lcampos01/tos:latest
+          
